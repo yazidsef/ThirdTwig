@@ -1,0 +1,12 @@
+{
+    "name": "wcs/quest-twig",
+    "description": "A quest to let you discover the power of the mighty twig template engine !",
+    "type": "quest",
+    "require": {
+        "twig/twig": "^3.8"
+    },
+    "authors": [{
+        "name": "yazid",
+        "email": "yazidsefsaf45@yahoo.com"
+    }]
+}
